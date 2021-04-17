@@ -1,0 +1,102 @@
+[
+    {
+      "id": "1",
+      "category": "electronics",
+      "name": "Oneplus One 64 GB Sandstone Black",
+      "image": {
+        "src": "http://cdn04.androidauthority.net/wp-content/uploads/2014/04/oneplus-one-press-shots-2.jpg",
+        "alt": "Oneplus One Sandstone Black 64 GB"
+      },
+      "price": "24,000"
+    },
+    {
+      "id": "2",
+      "category": "electronics",
+      "name": "Peroptimist Bluetooth Headphones",
+      "image": {
+        "src": "https://i5.walmartimages.com/asr/3159e3b9-01b6-47bc-9a17-d9d708995a37_1.c04ea67ac3183674e92bca6d775f8bc9.jpeg",
+        "alt": "Peroptimist Bluetooth Headphones, Foldable Wireless"
+      },
+      "price": "4,000"
+    },
+    {
+      "id": "3",
+      "category": "books",
+      "name": "Animal Farm by George Orwell",
+      "image": {
+        "src": "https://render.fineartamerica.com/images/rendered/default/print/5.375/8.000/break/images-medium-5/animal-farm-book-cover-poster-art-1-nishanth-gopinathan.jpg",
+        "alt": "Animal Farm book cover"
+      },
+      "price": "350"
+    },
+    {
+      "id": "4",
+      "category": "electronics",
+      "name": "Nokia Power Earbuds Lite headphones",
+      "image": {
+        "src": "https://i2.wp.com/nokiamob.net/wp-content/uploads/2020/10/nokia_com-gallery-E3500-black-2.jpg",
+        "alt": "Nokia Power Earbuds Lite headphones"
+      },
+      "price": "2,000"
+    },
+    {
+      "id": "5",
+      "category": "books",
+      "name": "Alchemist by Paulo Coelho",
+      "image": {
+        "src": "https://ww1.prweb.com/prfiles/2014/09/05/12148320/Alchemist%2025th%20pb.JPG",
+        "alt": "Alchemist by Paulo Coelho"
+      },
+      "price": "340"
+    },
+    {
+      "id": "6",
+      "category": "books",
+      "name": "Dune by Frank Herbert",
+      "image": {
+        "src": "https://media1.popsugar-assets.com/files/thumbor/MAG0JIxnpbklSVIz8MoqqxchmtY/fit-in/1024x1024/filters:format_auto-!!-:strip_icc-!!-/2020/09/20/981/n/47139299/174dd5aa5f67d89c05d098.99064726_/i/dune-books-in-order.jpg",
+        "alt": "Dune by Frank Herbert"
+      },
+      "price": "9000"
+    },
+    {
+      "id": "7",
+      "category": "electronics",
+      "name": "Xiaomi Mi Band 3",
+      "image": {
+        "src": "https://www.penguin.com.bd/wp-content/uploads/2018/07/Xiaomi-Mi-Band-3-2.jpg",
+        "alt": "Xiaomi Mi Band 3"
+      },
+      "price": "2,999"
+    },
+    {
+      "id": "8",
+      "category": "electronics",
+      "name": "Oral-B Electric Rechargeable Toothbrush",
+      "image": {
+        "src": "https://cdn11.bigcommerce.com/s-2idmiil7bp/images/stencil/1280x1280/products/550/845/61ZXCjRAbRL._SL1125_-1__92708__73776.1587399576.jpg?c=1",
+        "alt": "Oral-B Electric Rechargeable Toothbrush"
+      },
+      "price": "2,000"
+    },
+    {
+      "id": "9",
+      "category": "electronics",
+      "name": "Digital Finger Oximeter",
+      "image": {
+        "src": "https://ae01.alicdn.com/kf/HTB1hEFyKVXXXXXBXXXXq6xXFXXXS/Floureon-FS20A-Digital-Finger-Oximeter-LED-Pulse-Oximeter-Display-Pulsioximetro-SPO2-PR-Oximetro-De-Dedo-Oximeter.jpg",
+        "alt": "Digital Finger Oximeter"
+      },
+      "price": "3,499"
+    },
+    {
+      "id": "10",
+      "category": "electronics",
+      "name": "Oneplus One 64 GB Sandstone Black",
+      "image": {
+        "src": "http://cdn04.androidauthority.net/wp-content/uploads/2014/04/oneplus-one-press-shots-2.jpg",
+        "alt": "Oneplus One Sandstone Black 64 GB"
+      },
+      "price": "24,000"
+    }
+  ]

@@ -1,0 +1,8 @@
+.carousel-container {
+  display: flex;
+  justify-content: center;
+}
+.carousel-container .left-arrow,
+.carousel-container .right-arrow {
+  align-self: center;
+}

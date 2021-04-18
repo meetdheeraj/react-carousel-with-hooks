@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## How it looks on initial load
+![page grab on initial load](public/images/screenshot.JPG)<br>
 ## Available Scripts
 
 In the project directory, you can run:

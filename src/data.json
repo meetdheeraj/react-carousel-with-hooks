@@ -91,12 +91,22 @@
     },
     {
       "id": "10",
-      "category": "electronics",
-      "name": "Oneplus One 64 GB Sandstone Black",
+      "category": "books",
+      "name": "The Dalai Lama's Cat by David Michie",
       "image": {
-        "src": "http://cdn04.androidauthority.net/wp-content/uploads/2014/04/oneplus-one-press-shots-2.jpg",
-        "alt": "Oneplus One Sandstone Black 64 GB"
+        "src": "https://cdn.shopify.com/s/files/1/0652/2405/products/41tUR13unJL.jpg",
+        "alt": "The Dalai Lama's Cat by David Michie"
       },
-      "price": "24,000"
-    }
+      "price": "299"
+    },
+    {
+        "id": "11",
+        "category": "books",
+        "name": "The Little Prince by Antoine de Saint-Exupery",
+        "image": {
+          "src": "https://www.dystopian-books.com/wp-content/uploads/2020/06/The-Little-Prince.jpg",
+          "alt": "The Little Prince by Antoine de Saint-Exupery"
+        },
+        "price": "459"
+      }
   ]

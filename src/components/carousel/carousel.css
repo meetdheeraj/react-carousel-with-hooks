@@ -5,4 +5,9 @@
 .carousel-container .left-arrow,
 .carousel-container .right-arrow {
   align-self: center;
+  cursor: pointer;
+}
+.carousel-container .left-arrow.hide,
+.carousel-container .right-arrow.hide {
+  visibility: hidden;
 }
